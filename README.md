@@ -10,3 +10,4 @@ choco install -y nodejs-lts openjdk11
 ### Install Andriod Studio 
   - Set sdk
   - set jre
+  - set Android Virtual Device

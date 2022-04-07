@@ -11,3 +11,5 @@ choco install -y nodejs-lts openjdk11
   - Set sdk
   - set jre
   - set Android Virtual Device
+
+(ref url)[https://reactnative.dev/docs/environment-setup]
